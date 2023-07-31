@@ -6,4 +6,4 @@ A Connect N game I coded in C++ using object-oriented programming. It is like Co
 
 ### More information
 
-The most difficult part of this project was coding the bot that always plays perfectly. Uses the minimax algorithm.
+The most difficult part of this project was coding the bot that always plays perfectly. It uses the minimax algorithm which is a recursive backtracking algorithm that is used in game theory to find the optimal move. It considers all of the possible moves that it can play and how a player playing optimally would respond to those moves. 
